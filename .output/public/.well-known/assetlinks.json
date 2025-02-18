@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "uz.clindoc.redmedia",
+      "sha256_cert_fingerprints": [
+        "36:CD:F0:87:92:43:91:03:95:74:5E:0A:C6:9C:DF:AC:51:B9:DE:E0:0F:94:84:43:26:71:69:7A:C3:D2:62:66"
+      ]
+    }
+  }
+]

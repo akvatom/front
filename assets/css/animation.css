@@ -1,0 +1,36 @@
+@keyframes dropdown-sort {
+    0% {
+        opacity: 0;
+        top: calc(100% + 12px);
+    }
+
+    100% {
+        opacity: 1;
+        top: calc(100% + 4px);
+    }
+}
+
+.dropdown-sort-enter-active {
+    animation: dropdown-sort 0.2s ease-in-out;
+}
+
+.dropdown-sort-leave-active {
+    animation: dropdown-sort 0.2s ease-in-out reverse;
+}
+
+@keyframes fade {
+    from {
+        opacity: 0;
+        z-index: -1;
+    }
+    to {
+        opacity: 1;
+        z-index: 99;
+    }
+}
+.fade-enter-active {
+    animation: fade 0.3s ease-in-out;
+}
+.fade-leave-active {
+    animation: fade 0.3s ease-in-out reverse;
+}

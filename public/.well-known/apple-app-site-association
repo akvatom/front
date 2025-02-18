@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "6J3ZA4LYAR.uz.clindoc.redmedia",
+        "paths": ["/doctor/*"]
+      }
+    ]
+  }
+}

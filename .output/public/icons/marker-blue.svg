@@ -1,0 +1,18 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Frame 2087326196">
+<g id="Ellipse 1172" opacity="0.3" filter="url(#filter0_f_2032_98367)">
+<ellipse cx="40" cy="65" rx="20" ry="5" fill="#002168"/>
+</g>
+<g id="map">
+<path id="Vector" d="M52.0713 56.9246C55.2228 53.6942 58.2355 49.6628 60.4646 45.4634C62.6879 41.275 64.1667 36.8534 64.1667 32.8571C64.1667 19.7571 53.3306 9.16667 40 9.16667C26.6694 9.16667 15.8334 19.7571 15.8334 32.8571C15.8334 36.8534 17.3121 41.275 19.5354 45.4634C21.7645 49.6628 24.7773 53.6942 27.9287 56.9246C30.0013 59.049 32.1502 60.8438 34.1948 62.1134C36.2207 63.3713 38.2291 64.1667 40 64.1667C41.7709 64.1667 43.7793 63.3713 45.8052 62.1134C47.8498 60.8438 49.9988 59.049 52.0713 56.9246Z" fill="#1D7ED8" stroke="white" stroke-width="1.66667"/>
+<circle id="Ellipse 866" cx="40" cy="33.3337" r="6.66667" fill="white"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_2032_98367" x="10" y="50" width="60" height="30" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="5" result="effect1_foregroundBlur_2032_98367"/>
+</filter>
+</defs>
+</svg>
